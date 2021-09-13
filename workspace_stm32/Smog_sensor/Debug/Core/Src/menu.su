@@ -1,0 +1,8 @@
+menu.c:49:9:StateMachine	24	static
+menu.c:70:9:DrawSecondScreen	64	static
+menu.c:91:9:DrawMainScreen	16	static
+menu.c:111:6:measure_and_display_CO2_concentration	96	static
+menu.c:151:6:prepare_PM_sensor	24	static
+menu.c:165:6:measure_and_display_PM_concentration	136	static
+menu.c:194:6:prepare_INA_sensor	56	static
+menu.c:216:6:measure_and_dispaly_voltage_and_current	96	static

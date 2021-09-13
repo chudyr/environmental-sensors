@@ -1,0 +1,6 @@
+main.c:84:5:main	32	static
+main.c:171:6:SystemClock_Config	96	static
+main.c:211:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:225:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:236:6:prepare_CO2_sensor	8	static
+main.c:247:6:Error_Handler	8	static,ignoring_inline_asm

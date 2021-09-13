@@ -1,0 +1,10 @@
+21:38:04 **** Incremental Build of configuration Debug for project Smog_sensor ****
+make -j8 all 
+arm-none-eabi-size   Smog_sensor.elf 
+   text	   data	    bss	    dec	    hex	filename
+  38176	   1548	   1828	  41552	   a250	Smog_sensor.elf
+Finished building: default.size.stdout
+ 
+
+21:38:04 Build Finished. 0 errors, 0 warnings. (took 318ms)
+

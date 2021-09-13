@@ -1,0 +1,7 @@
+rc_ssd1309.c:93:13:SPIwrite	24	static
+rc_ssd1309.c:104:6:rc_ssd1309_cmd	16	static
+rc_ssd1309.c:123:6:rc_ssd1309_data	16	static
+rc_ssd1309.c:153:6:rc_ssd1306_init	8	static
+rc_ssd1309.c:197:6:rc_ssd1309_display	16	static
+rc_ssd1309.c:223:6:rc_ssd1309_display_clear	16	static
+rc_ssd1309.c:250:6:rc_ssd1309_setPixel	24	static

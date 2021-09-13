@@ -1,0 +1,6 @@
+rc_graphic.c:130:6:rc_ssd1308_drawBitmap	48	static
+rc_graphic.c:160:6:rc_ssd1309_drawchar	40	static
+rc_graphic.c:179:6:rc_ssd1309_fillRect	32	static
+rc_graphic.c:187:6:drawFastVLine	32	static
+rc_graphic.c:193:6:writeLine	48	static
+rc_graphic.c:233:6:rc_ssd1309_puts	48	static
